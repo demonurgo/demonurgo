@@ -13,7 +13,7 @@ Full-Stack Developer focused on building scalable web applications with modern t
 ## Stats
 
 <div align="center">
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=demonurgo&show_icons=true&count_private=true&include_all_commits=true&show_owner=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" alt="GitHub stats" /> 
+<!--  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=demonurgo&show_icons=true&count_private=true&include_all_commits=true&show_owner=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" alt="GitHub stats" /> -->
   
   <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demonurgo&layout=compact&include_all_commits=true&count_private=true&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" />
 </div>

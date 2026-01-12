@@ -18,29 +18,13 @@
 <br/>
 
 <div align="center">
-  <h2>⚡ Stats & Analytics</h2>
   
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=demonurgo&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=demonurgo&bg_color=000000&color=ffffff&line=25d366&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
   </a>
-  
-  <br/><br/>
 
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/demonurgo">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=demonurgo&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=transparent&title_color=ffffff&icon_color=ffffff&text_color=efefef&v=2" alt="Pedro's Stats" />
-    </a>
-    
-    <a href="https://github.com/demonurgo">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=demonurgo&layout=compact&hide_border=true&bg_color=transparent&title_color=ffffff&text_color=efefef&v=2" alt="Pedro's Top Langs" />
-    </a>
-  </div>
-  
-  <br/>
-  <a href="https://github.com/demonurgo">
-    <img src="https://streak-stats.demolab.com/?user=demonurgo&theme=transparent&hide_border=true&title_color=ffffff&text_color=efefef&icon_color=ffffff" alt="GitHub Streak" />
-  </a>
 </div>
+
 <br/>
 
 <h2 align="center">🛠️ Tech Stack</h2>

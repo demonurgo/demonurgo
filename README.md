@@ -54,6 +54,12 @@
         <img src="https://skillicons.dev/icons?i=php,nodejs" /><br>Backend
       </td>
       <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=laravel" /><br>Laravel
+      </td>
+      <td align="center" width="90">
+        <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" /><br>CodeIgniter
+      </td>
+      <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=mysql,postgres" /><br>SQL
       </td>
       <td align="center" width="90">
